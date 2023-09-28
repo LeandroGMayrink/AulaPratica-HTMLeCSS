@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #0e0e10;
+  color: white;
+  font-size: 13px;
+}
+
+header {
+  text-align: center;
+  background-color: black;
+  padding: 1px;
+}
+
+h2 {
+  text-align: center
+}
+
+table {
+  margin: 15px 300px 15px 300px;
+  background-color: #18181b;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  padding: 20px;
+}
+
+th,
+td {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+}
